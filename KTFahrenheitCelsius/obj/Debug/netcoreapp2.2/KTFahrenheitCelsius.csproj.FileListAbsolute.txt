@@ -1,0 +1,11 @@
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\bin\Debug\netcoreapp2.2\KTFahrenheitCelsius.deps.json
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\bin\Debug\netcoreapp2.2\KTFahrenheitCelsius.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\bin\Debug\netcoreapp2.2\KTFahrenheitCelsius.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\bin\Debug\netcoreapp2.2\KTFahrenheitCelsius.dll
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\bin\Debug\netcoreapp2.2\KTFahrenheitCelsius.pdb
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.dll
+C:\Users\Karl\Desktop\VS\KTFahrenheitCelsius\KTFahrenheitCelsius\obj\Debug\netcoreapp2.2\KTFahrenheitCelsius.pdb
